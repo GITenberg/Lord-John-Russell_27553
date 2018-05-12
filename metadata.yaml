@@ -1,0 +1,29 @@
+_repo: Lord-John-Russell_27553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Stuart J. (Stuart Johnson)
+    alias: Reid, Stuart Johnson
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '2343'
+    url: http://www.gutenberg.org/2009/agents/2343
+description: ''
+gutenberg_issued: '2008-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27553'
+  lccn: 01019063
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prime ministers -- Great Britain -- Biography'
+- !lcc 'DA'
+- !lcsh 'Russell, John Russell, Earl, 1792-1878'
+title: Lord John Russell
+url: http://www.gutenberg.org/ebooks/27553
